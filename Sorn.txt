@@ -1,0 +1,22 @@
+Lyonelle & Emil G:
+
+KODE:
+LAG nettsidene & CSS.
+Sylesheet sidene.
+Ta hensyn til Universell Utforming.
+
+
+Oppgave til Hassan 
+Finn svar på: Hva kan være funksjonelle krav til en IT-løsning?
+Finn svar på: Hvordan finne ut dette?
+Finn svar på: Hvordan kan vi behovskartlegge funksjonelle krav?
+Finn svar på: Lage en IT-løsning der dette er tatt hensyn til.
+
+Finn svar på disse:
+1. Å lage et prosessflytdiagram
+
+2. Identifisere roller i prosessen
+
+3. Vurdere behovet for IKT-støtte
+
+4. Kravdefinisjon og kravspesifikasjon

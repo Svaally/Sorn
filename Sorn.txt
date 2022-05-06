@@ -8,6 +8,7 @@ Ta hensyn til Universell Utforming.
 
 Oppgave til Hassan 
 Finn svar på: Hva kan være funksjonelle krav til en IT-løsning?
+Svar: Funskjonelle krav til en IT-løsing kan være at systeme ikke virker på måten den skulle. 
 Finn svar på: Hvordan finne ut dette?
 Finn svar på: Hvordan kan vi behovskartlegge funksjonelle krav?
 Finn svar på: Lage en IT-løsning der dette er tatt hensyn til.

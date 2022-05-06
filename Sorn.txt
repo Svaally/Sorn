@@ -8,10 +8,11 @@ Ta hensyn til Universell Utforming.
 
 Oppgave til Hassan 
 Finn svar på: Hva kan være funksjonelle krav til en IT-løsning?
-Svar: Funskjonelle krav til en IT-løsing kan være at systeme "oppfører" seg hva det skal gjøre , eller så kan det være at det er vanskelig for de som er fargeblind å bruke systeme. et vanlig funskjonelle krav kan inneholde et unikt navn og nummer, en kort oppsummering. 
+Svar: Funskjonelle krav til en IT-løsing kan være at systeme "oppfører" seg hva det skal gjøre og ikke gjøre, ellers kan det være at det er vanskelig for de som f.eks som er fargeblind for å bruke systeme. et vanlig funskjonelle krav kan inneholde et unikt navn og nummer, en kort oppsummering. Man må passe på hvordan den skal oppføre seg og at det virker på en måte som at alle kan bruke systeme ditt eller nettsiden din.  
 Finn svar på: Hvordan finne ut dette?
 Svar: En måte på å finne ut det man være med å se om systeme eller nettsiden din er unviersell utforming. Som betyr om teskten din er unviersell utformet, bilder og video. 
 Finn svar på: Hvordan kan vi behovskartlegge funksjonelle krav?
+Svar: Måten vi kan behovskartlegge funskjonelle krav 
 Finn svar på: Lage en IT-løsning der dette er tatt hensyn til.
 
 Finn svar på disse:

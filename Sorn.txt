@@ -19,6 +19,7 @@ Finn svar på disse:
 1. Å lage et prosessflytdiagram
 
 
+
 2. Identifisere roller i prosessen
 
 3. Vurdere behovet for IKT-støtte

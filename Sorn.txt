@@ -12,11 +12,12 @@ Svar: Funskjonelle krav er en beskrivelse av hvordan den skal "oppfører" seg hv
 Finn svar på: Hvordan finne ut dette?
 Svar: En måte på å finne ut det man være med å se om systeme eller nettsiden din er unviersell utforming. Som betyr om teskten din er unviersell utformet, bilder og video. Som f.eks så kan teksten være for liten at de som har dårlig syn ikke klarer å lese hva det står i teksen. 
 Finn svar på: Hvordan kan vi behovskartlegge funksjonelle krav?
-Svar: Måten vi kan behovskartlegge funskjonelle krav 
+Svar: 
 Finn svar på: Lage en IT-løsning der dette er tatt hensyn til.
 
 Finn svar på disse:
 1. Å lage et prosessflytdiagram
+Svar: 
 
 2. Identifisere roller i prosessen
 

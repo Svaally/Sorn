@@ -48,7 +48,11 @@ ul a {
     
 }
 
-a:hover{
+.sider{
+    color: black;
+}
+
+.sider:hover{
     background-color: white;
 }
 

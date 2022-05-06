@@ -20,3 +20,6 @@ Finn svar på disse:
 3. Vurdere behovet for IKT-støtte
 
 4. Kravdefinisjon og kravspesifikasjon
+
+Funskjonelle Krav: 
+https://www.dikom.no/blogg/ny-nettside-da-trenger-du-en-kravspesifikasjon

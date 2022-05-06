@@ -21,6 +21,9 @@ Finn svar på disse:
 
 
 2. Identifisere roller i prosessen
+Identifisere roller i prosessen 
+I arbeidsprosess bør vi forsøke å unngå å bruke personnavn når man skal bruke dokumenter i en prosess. I stedet kan man bruke stillingsbetegnelser, det gjør som at vi ikke trenger å endre på noen roller i prosessen hvis noen skulle ha sluttet eller vis nye personer blir ansatt. Ofte så vil personer ha samme rolle som omfatte til flere personer. 
+
 
 3. Vurdere behovet for IKT-støtte
 

@@ -26,6 +26,7 @@ I arbeidsprosess bør vi forsøke å unngå å bruke personnavn når man skal br
 
 
 3. Vurdere behovet for IKT-støtte
+Svar: Man kan dele IKT-støtte i arbeidsprossesen i to deler 1. Systemer som skal inngår som en del av prossesen. 2. Systemene som den enkle rolle trenger for å få gjort oppgavene sine i prossesen.
 
 4. Kravdefinisjon og kravspesifikasjon
 

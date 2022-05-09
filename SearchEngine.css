@@ -1,0 +1,24 @@
+  
+ /*Endrer navbar og search engine bar*/
+  .topnav a {
+    float: center;
+    color: black;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    font-size: 10px;
+  }
+   
+  
+ /*Styler søke boksen. Dette er bare for pynt. I en ekte nettside ville den ha fungert*/
+  .topnav input[type=text] {
+    float: center;
+    padding: 16px;
+    border: none;
+    margin-top: 16px;
+    margin-right: 16px;
+    font-size: 16px;
+  }
+  
+  
+  

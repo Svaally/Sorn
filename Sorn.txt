@@ -15,9 +15,7 @@ Finn svar på: Hvordan finne ut dette?
 Svar: En måte på å finne ut det man være med å se om systeme eller nettsiden din er unviersell utforming. Som betyr om teskten din er unviersell utformet, bilder og video. Som f.eks så kan teksten være for liten at de som har dårlig syn ikke klarer å lese hva det står i teksen. 
 Finn svar på: Hvordan kan vi behovskartlegge funksjonelle krav?
 
-Svar: 
-Finn svar på: Lage en IT-løsning der dette er tatt hensyn til.
-Svar:
+Svar: Måten vi kan ha behov for å kartlegge funksjonelle krav er å ha en god plan, passe på at brukeren får det de skal ha på en enkel måte, at verktøyene går til riktig bruker og de får tilgang til å bruke den og at design passer for den enkelte brukeren. Kartlegge behov handler om å definere behovene, måter på hvordan man skal løse målene.
 
 Finn svar på disse:
 1. Å lage et prosessflytdiagram

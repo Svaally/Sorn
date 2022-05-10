@@ -27,6 +27,7 @@ I arbeidsprosess bør vi forsøke å unngå å bruke personnavn når man skal br
 
 3. Vurdere behovet for IKT-støtte
 
+
 4. Kravdefinisjon og kravspesifikasjon
 
 Funskjonelle Krav: 

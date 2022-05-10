@@ -8,28 +8,37 @@ Ta hensyn til Universell Utforming.
 
 Oppgave til Hassan 
 Finn svar på: Hva kan være funksjonelle krav til en IT-løsning?
+
 Svar: Funskjonelle krav er en beskrivelse av hvordan den skal "oppfører" seg hva det skal gjøre og ikke gjøre, ellers kan det være at det er vanskelig for de som f.eks som er fargeblind for å bruke systeme. et vanlig funskjonelle krav kan inneholde et unikt navn og nummer, en kort oppsummering. Man må passe på hvordan den skal oppføre seg og at det virker på en måte som at alle kan bruke systeme ditt eller nettsiden din.  
 Finn svar på: Hvordan finne ut dette?
+
 Svar: En måte på å finne ut det man være med å se om systeme eller nettsiden din er unviersell utforming. Som betyr om teskten din er unviersell utformet, bilder og video. Som f.eks så kan teksten være for liten at de som har dårlig syn ikke klarer å lese hva det står i teksen. 
 Finn svar på: Hvordan kan vi behovskartlegge funksjonelle krav?
+
 Svar: 
 Finn svar på: Lage en IT-løsning der dette er tatt hensyn til.
+Svar:
 
 Finn svar på disse:
 1. Å lage et prosessflytdiagram
 
+Prossessflytdiagram er et skjerma som brukes symboler for å vise ulike steger i en prosess og forholde mellom dem. Flytskjema skal være et godt tegnes for hånd, men det er bedre å bruke et dataverktøy for å lage et. Vanlige kontorprogrammer som har tekstbehandling, regneark og presentasjons programmer har ofte flytskjemasymboler og blir kan også være et spesialprogram eller et nettbasert. 
 
 
 2. Identifisere roller i prosessen
+
 Identifisere roller i prosessen 
 I arbeidsprosess bør vi forsøke å unngå å bruke personnavn når man skal bruke dokumenter i en prosess. I stedet kan man bruke stillingsbetegnelser, det gjør som at vi ikke trenger å endre på noen roller i prosessen hvis noen skulle ha sluttet eller vis nye personer blir ansatt. Ofte så vil personer ha samme rolle som omfatte til flere personer. 
 
 
 3. Vurdere behovet for IKT-støtte
+
 Da prosessen er klar og rollene er identifisert, kan man gå over til å vurdere IKT-støtten. Man kan dele IKT-støtten i en arbeidsprosess i to deler. Dele 1. Systemer som er en del av prosessen. Del 2 Systemer som en enkel rolle kan bruke for å gjøre oppgavene sine i prosessen.  Når systemer som er en del av prosessen blir kalt for prosesskritiske. Det betyr at hele prosessen kan stoppe hvis det ikke fungerer som den skal.
 
 
 4. Kravdefinisjon og kravspesifikasjon
+
+
 
 Funskjonelle Krav: 
 https://www.dikom.no/blogg/ny-nettside-da-trenger-du-en-kravspesifikasjon

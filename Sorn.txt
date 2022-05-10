@@ -26,6 +26,7 @@ I arbeidsprosess bør vi forsøke å unngå å bruke personnavn når man skal br
 
 
 3. Vurdere behovet for IKT-støtte
+Da prosessen er klar og rollene er identifisert, kan man gå over til å vurdere IKT-støtten. Man kan dele IKT-støtten i en arbeidsprosess i to deler. Dele 1. Systemer som er en del av prosessen. Del 2 Systemer som en enkel rolle kan bruke for å gjøre oppgavene sine i prosessen.  Når systemer som er en del av prosessen blir kalt for prosesskritiske. Det betyr at hele prosessen kan stoppe hvis det ikke fungerer som den skal.
 
 
 4. Kravdefinisjon og kravspesifikasjon

@@ -34,7 +34,7 @@ ul a {
     /* Avstand mellom bokskant og innhold, topp/bunn 10px og sidene 40px */
     border-radius: 2%;
     /* Avrundede hjørner */
-    margin: -2px;
+    margin: 0 -2px;
     /* Avstand mellom bokser */
     /* Farge på teksten */
     font-weight: bolder;

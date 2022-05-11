@@ -25,7 +25,7 @@ ul {
 }
 
 ul li{
-    display: inline; 
+    display: inline-flex; 
     /*Gjør listepunktene til inline*/
 }
 
